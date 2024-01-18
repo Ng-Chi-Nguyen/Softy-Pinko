@@ -143,8 +143,8 @@
       z-index: 3;
 }
 .Work-Process .inner-box:hover{
-      margin-top: -10px;
-      transition: .5s;
+      margin-top: -30px;
+      transition: 1s;
 }
 .Work-Process .inner-box::before{
       content: '';
